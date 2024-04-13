@@ -1,0 +1,17 @@
+#root {
+  margin: 0 auto;
+  padding: 0;
+  text-align: center;
+  font-family: sans-serif;
+}
+
+body{
+  height: 100vh;
+  width: 100%;
+  overflow: hidden;
+  box-sizing: border-box;
+  background: url(https://www.havaforum.com/wp-content/uploads/2014/09/Nature-Wallpaper-27.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
